@@ -9,6 +9,7 @@
 ### Part.2 服务器图片
 
 ![服务器图片1](https://img1.imgtp.com/2022/07/20/oQHidQj5.png)
+![服务器图片2](https://img1.imgtp.com/2022/07/20/8HneqpWE.png)
 
 ```markdown
 Syntax highlighted code block
