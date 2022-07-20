@@ -2,11 +2,13 @@
 
 ### Part.1 介绍
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+学园都市是一个简单的MC1.17.1版本自由服务器，在这里，你可以自由的挖掘与创造，甚至徜徉在命令之海，体验别样的生存乐趣。
+我们的腐竹十分和善，服务器建筑师LiuNianY_CN建筑水平高超，认真的玩家H_SmallFish从不投机取巧，正义感爆棚。
+这是一个新兴的世界，欢迎你的加入。
 
-### Markdown
+### Part.2 服务器图片
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![服务器图片1](https://img1.imgtp.com/2022/07/20/oQHidQj5.png)
 
 ```markdown
 Syntax highlighted code block
